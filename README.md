@@ -29,5 +29,3 @@ Output screen:
 ![Output1](img/output1.png?raw=true "Output1")
 
 ![Output2](img/output2.png?raw=true "Output2")
-
-![Output3](img/output3.png?raw=true "Output3")
